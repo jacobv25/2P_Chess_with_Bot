@@ -1,0 +1,3 @@
+C:/Users/javal/CLionProjects/2P_Chess_with_Bot/cmake-build-debug/CMakeFiles/2P_Chess_with_Bot.dir
+C:/Users/javal/CLionProjects/2P_Chess_with_Bot/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/javal/CLionProjects/2P_Chess_with_Bot/cmake-build-debug/CMakeFiles/rebuild_cache.dir
