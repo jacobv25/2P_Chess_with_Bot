@@ -6,7 +6,6 @@
 #define INC_2P_CHESS_WITH_BOT_BOARD_H
 
 
-#include "Square.h"
 
 class Board {
 

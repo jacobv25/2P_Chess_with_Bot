@@ -4,9 +4,4 @@
 
 CMakeFiles/2P_Chess_with_Bot.dir/Driver.cpp.obj: ../Board.h
 CMakeFiles/2P_Chess_with_Bot.dir/Driver.cpp.obj: ../Driver.cpp
-CMakeFiles/2P_Chess_with_Bot.dir/Driver.cpp.obj: ../Square.h
-
-CMakeFiles/2P_Chess_with_Bot.dir/Piece.cpp.obj: ../Piece.cpp
-CMakeFiles/2P_Chess_with_Bot.dir/Piece.cpp.obj: ../Piece.h
-
 

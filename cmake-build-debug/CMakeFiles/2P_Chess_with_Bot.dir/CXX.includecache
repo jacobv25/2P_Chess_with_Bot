@@ -7,8 +7,6 @@
 #IncludeRegexTransform: 
 
 C:/Users/javal/CLionProjects/2P_Chess_with_Bot/Board.h
-Square.h
-C:/Users/javal/CLionProjects/2P_Chess_with_Bot/Square.h
 
 C:/Users/javal/CLionProjects/2P_Chess_with_Bot/Driver.cpp
 iostream
@@ -17,6 +15,4 @@ cstring
 -
 Board.h
 C:/Users/javal/CLionProjects/2P_Chess_with_Bot/Board.h
-
-C:/Users/javal/CLionProjects/2P_Chess_with_Bot/Square.h
 
